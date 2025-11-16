@@ -48,7 +48,7 @@ It enables HR teams to monitor employee structure, understand salary variation, 
 
 ## 🖼 Dashboard Preview
 
-![HR Dashboard](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 > Ensure your screenshot is uploaded as `dashboard.png` inside the **screenshots/** folder.
 
